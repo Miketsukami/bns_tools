@@ -58,6 +58,7 @@ class UpkFiles:
         (Classes.WARDEN,         Stages.BEFORE_AWAKENING    ): {'00056126', '00056566'},
         (Classes.WARLOCK,        Stages.BEFORE_AWAKENING    ): {'00023439'},
         (Classes.ASSASSIN,       Stages.AFTER_AWAKENING     ): {'00056572'},
+        (Classes.ASTROMANCER,    Stages.AFTER_AWAKENING     ): {'00072639', '00072642'},
         (Classes.BLADE_DANCER,   Stages.AFTER_AWAKENING     ): {'00056574'},
         (Classes.BLADE_MASTER,   Stages.AFTER_AWAKENING     ): {'00056567'},
         (Classes.DESTROYER,      Stages.AFTER_AWAKENING     ): {'00056570'},
